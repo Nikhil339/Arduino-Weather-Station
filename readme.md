@@ -12,7 +12,7 @@ This project was simulated using Wokwi Simulator.
 4. LED Bar Graph x 1
 5. SSD1306 OLED Display x 1
 6. LED x 1
-7. 220ohm Resistor x 1
+7. 220ohm Resistor x 1 [You may require additional 10 220ohm resistor for the led bar graph]
 8. Breadboard x 1<br>
 
 ## Connections
